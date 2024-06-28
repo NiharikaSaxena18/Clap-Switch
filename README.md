@@ -19,5 +19,5 @@ CLAP SWITCH is a switch which can switch on/off any electrical circuit by the so
 3. Low cost and reliable circuit. 
 4. Complete elimination of man power. 
 5. Energy efficient.
-## Conclusion
+## Future Scope
 The clap activated switching device functions properly by responding to claps at about three to four meter away and finger tap sounds at very close range, since both are low frequency sounds and produce the same-pulse wave features. The resulting device has a good reliability and is relatively cheap. This circuit is very useful in field of electronic circuits. By using some modification, its area of application can be extended in various fields.
